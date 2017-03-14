@@ -1,0 +1,5 @@
+C:\Users\philip.pham\Documents\katakanaexercises\FindSumOfSumOfAllSubSequences\FindSumOfSumOfAllSubSequences\bin\Debug\FindSumOfSumOfAllSubSequences.exe.config
+C:\Users\philip.pham\Documents\katakanaexercises\FindSumOfSumOfAllSubSequences\FindSumOfSumOfAllSubSequences\bin\Debug\FindSumOfSumOfAllSubSequences.exe
+C:\Users\philip.pham\Documents\katakanaexercises\FindSumOfSumOfAllSubSequences\FindSumOfSumOfAllSubSequences\bin\Debug\FindSumOfSumOfAllSubSequences.pdb
+C:\Users\philip.pham\Documents\katakanaexercises\FindSumOfSumOfAllSubSequences\FindSumOfSumOfAllSubSequences\obj\Debug\FindSumOfSumOfAllSubSequences.exe
+C:\Users\philip.pham\Documents\katakanaexercises\FindSumOfSumOfAllSubSequences\FindSumOfSumOfAllSubSequences\obj\Debug\FindSumOfSumOfAllSubSequences.pdb

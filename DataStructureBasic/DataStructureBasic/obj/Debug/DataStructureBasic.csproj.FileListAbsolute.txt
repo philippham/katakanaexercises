@@ -1,0 +1,6 @@
+C:\Users\philip.pham\Documents\katakanaexercises\DataStructureBasic\DataStructureBasic\bin\Debug\DataStructureBasic.exe.config
+C:\Users\philip.pham\Documents\katakanaexercises\DataStructureBasic\DataStructureBasic\bin\Debug\DataStructureBasic.exe
+C:\Users\philip.pham\Documents\katakanaexercises\DataStructureBasic\DataStructureBasic\bin\Debug\DataStructureBasic.pdb
+C:\Users\philip.pham\Documents\katakanaexercises\DataStructureBasic\DataStructureBasic\obj\Debug\DataStructureBasic.csprojResolveAssemblyReference.cache
+C:\Users\philip.pham\Documents\katakanaexercises\DataStructureBasic\DataStructureBasic\obj\Debug\DataStructureBasic.exe
+C:\Users\philip.pham\Documents\katakanaexercises\DataStructureBasic\DataStructureBasic\obj\Debug\DataStructureBasic.pdb

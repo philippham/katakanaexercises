@@ -1,0 +1,5 @@
+C:\Users\philip.pham\Documents\katakanaexercises\FindPairWithGivenSum\FindPairWithGivenSum\bin\Debug\FindPairWithGivenSum.exe.config
+C:\Users\philip.pham\Documents\katakanaexercises\FindPairWithGivenSum\FindPairWithGivenSum\bin\Debug\FindPairWithGivenSum.exe
+C:\Users\philip.pham\Documents\katakanaexercises\FindPairWithGivenSum\FindPairWithGivenSum\bin\Debug\FindPairWithGivenSum.pdb
+C:\Users\philip.pham\Documents\katakanaexercises\FindPairWithGivenSum\FindPairWithGivenSum\obj\Debug\FindPairWithGivenSum.exe
+C:\Users\philip.pham\Documents\katakanaexercises\FindPairWithGivenSum\FindPairWithGivenSum\obj\Debug\FindPairWithGivenSum.pdb
